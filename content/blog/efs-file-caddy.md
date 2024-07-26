@@ -96,6 +96,6 @@ vpn.great-way.link {
 
 Open the `vpn.great-way.link` address in your browser and enter your username and password to access the
 
-![caddy](https://cdn.jsdelivr.net/gh/GreatWay/GreatWay.github.io@master/static/img/caddy.png)
+![caddy](https://cdn.jsdelivr.net/gh/GreateWay/GreateWay.github.io@master/static/img/caddy.png)
 
 ------

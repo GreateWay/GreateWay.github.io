@@ -12,7 +12,7 @@ header:
 
 In the following, we provide important links for you to refer to our opensource resources.
 
-{{< button href="https://github.com/GreatWay" label="GITHUB" external=true >}}
+{{< button href="https://github.com/GreateWay" label="GITHUB" external=true >}}
 {{< button href="https://www.great-way.com/" label="HOME PAGE" external=true >}}
 {{< button href="https://grafana.great-way.link/" label="GRAFANA" external=true >}}
 {{< button href="https://jenkins.great-way.link/" label="JENKINS" external=true >}}

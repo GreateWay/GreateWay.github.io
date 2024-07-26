@@ -91,6 +91,6 @@ vpn.great-way.link {
 
 ### 步骤五：访问配置的域名，在线浏览文件
 浏览器打开`vpn.great-way.link`地址，输入用户名密码即可访问
-![caddy](https://cdn.jsdelivr.net/gh/GreatWay/GreatWay.github.io@master/static/img/caddy.png)
+![caddy](https://cdn.jsdelivr.net/gh/GreateWay/GreateWay.github.io@master/static/img/caddy.png)
 
 ------
